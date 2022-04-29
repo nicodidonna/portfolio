@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { HeaderComponent } from './header/header.component';
 import { ChiSonoComponent } from './chi-sono/chi-sono.component';
+import { TecnologieUtilizzateComponent } from './tecnologie-utilizzate/tecnologie-utilizzate.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomePageComponent,
     HeaderComponent,
-    ChiSonoComponent
+    ChiSonoComponent,
+    TecnologieUtilizzateComponent
   ],
   imports: [
     BrowserModule,

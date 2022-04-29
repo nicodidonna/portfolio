@@ -1,7 +1,7 @@
 li,a,button{
   font-weight: 500;
   font-size: 16px;
-  color: var(--main-color2);
+  color: white;
   text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ header{
 
 button{
   padding: 9px 25px;
-  background-color: var(--main-color2);
+  background-color: white;
   border: none;
   border-radius: 50px;
   cursor:pointer;
@@ -41,12 +41,12 @@ button{
 }
 
 button:hover{
-  background-color: var(--main-color3);
+  background-color: var(--main-color2);
 }
 
 .logo{
   color: white;
-  font-size: 90%;
+  font-size:17px;
   font-weight: 600;
 }
 
