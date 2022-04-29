@@ -1,0 +1,17 @@
+
+.titolone{
+  font-size: 200px;
+  text-align: center;
+  margin-top: 15%;
+  margin-bottom: 0px;
+  color: var(--main-color1);
+}
+
+.titolone2{
+  font-size: 80px;
+  text-align: center;
+  margin-top: 1px;
+  margin-left: 25%;
+  color: var(--main-color2);
+}
+
