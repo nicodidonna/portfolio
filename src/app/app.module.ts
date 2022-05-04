@@ -7,6 +7,7 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { HeaderComponent } from './header/header.component';
 import { ChiSonoComponent } from './chi-sono/chi-sono.component';
 import { TecnologieUtilizzateComponent } from './tecnologie-utilizzate/tecnologie-utilizzate.component';
+import { DoveTrovarmiComponent } from './dove-trovarmi/dove-trovarmi.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { TecnologieUtilizzateComponent } from './tecnologie-utilizzate/tecnologi
     HomePageComponent,
     HeaderComponent,
     ChiSonoComponent,
-    TecnologieUtilizzateComponent
+    TecnologieUtilizzateComponent,
+    DoveTrovarmiComponent
   ],
   imports: [
     BrowserModule,
