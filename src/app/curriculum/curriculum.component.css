@@ -4,8 +4,8 @@
 }
 
 img{
-  border-radius: 50%;
-  width: 25%;
+  border-radius: 80% ;
+  width: 34%;
 }
 
 .container{
@@ -123,6 +123,10 @@ button:hover::before, button:focus::before {
 button:hover::after, button:focus::after {
   animation: none;
   display: none;
+}
+
+.item{
+  max-width: 40%;
 }
 
 @keyframes ring {
