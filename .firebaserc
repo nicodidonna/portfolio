@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "nicodidonna-webdeveloper": {
+      "hosting": {
+        "portfolio": [
+          "nicodidonna-webdeveloper"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "nicodidonna-webdeveloper"
+  }
+}
